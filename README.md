@@ -1,5 +1,5 @@
 
-# Olá, Mundo! Me chamo Bruno mas pode me chamar de Bonru San, Bonru San é meu nome artístico, não sou famoso mas um dia vou ser, Brasileiro Desenvolvedor Web 👋🏼:
+# Olá, Mundo! Podem me chamar de Bonru San, Brasileiro Desenvolvedor Web 👋🏼:
 
 
 ## 🌐 Sociais:
