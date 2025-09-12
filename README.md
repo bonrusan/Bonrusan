@@ -4,11 +4,11 @@
 
 ## 🌐 Sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/9plus_9_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bonrusan_) 
 [![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brunosantossvg)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/9plus_/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bruno9plus) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bruno9plus)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/bonrusan_/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bonrusan) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bonrusan)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://www.notion.so/Ainda-vou-criar-minha-apresenta-o-1d769659ebb280b6a252ebf5a18d1d5c?pvs=4)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunosantossvg@gmail.com)
  
@@ -17,7 +17,13 @@
 [![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [![OBS Studio](https://img.shields.io/badge/OBS_Studio-%23000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white)](https://obsproject.com/)
+ [![CapCut](https://img.shields.io/badge/CapCut-%23FF641C.svg?style=for-the-badge&logo=capcut&logoColor=white)](https://www.capcut.com/)
 [![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-%23000000.svg?style=for-the-badge&logo=blackmagicdesign&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+[![Inkscape](https://img.shields.io/badge/Inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/)
+[![Blender](https://img.shields.io/badge/Blender-%23126587.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+
+
+
 
 
 <picture>
