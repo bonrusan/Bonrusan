@@ -10,7 +10,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bonrusan) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bonrusan)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://www.notion.so/Ainda-vou-criar-minha-apresenta-o-1d769659ebb280b6a252ebf5a18d1d5c?pvs=4)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brunosantossvg@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonrusan@gmail.com)
  
 
 # 💻 Conjunto de Tecnologia:
