@@ -5,11 +5,12 @@
 ## 🌐 Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bonrusan) 
-[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brunosantossvg)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@bonrusan)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/bonrusan_/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bonrusan) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bonrusan)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://www.notion.so)
+[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?logo=behance&logoColor=white)](https://www.behance.net/brunosantossvg)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bonrusan@gmail.com)
  
 
